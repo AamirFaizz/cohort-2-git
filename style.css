@@ -11,7 +11,7 @@ html, body {
 }
 
 h1 {
-    color: rgb(121, 121, 244);
+    color: rgb(156, 156, 66);
     font-size: 30px;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@ p {
     display: block;
     margin: auto;
     padding: 8px 20px;
-    background-color: rgb(238, 102, 102);
+    background-color: rgb(133, 133, 65);
     width: fit-content;
     border-radius: 5px;
     margin-top: -10px;
